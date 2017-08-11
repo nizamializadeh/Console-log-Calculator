@@ -16,21 +16,21 @@ namespace ConsoleApp3
             {
                 Console.WriteLine(b+c);
             }
-            if (a == "Cixma")
+            else if (a == "Cixma")
             {
                 Console.WriteLine(b - c);
             }
-            if (a == "Vurma")
+            else if(a == "Vurma")
             {
                 Console.WriteLine(b * c);
             }
-            if (a == "Bolme")
+            else if(a == "Bolme")
             {
                 Console.WriteLine(b / c);
             }
             else
             {
-                Console.WriteLine("Xahis Edirik Duzgun Reqem Yazin");
+                Console.WriteLine("Xahis Edirik Duzgun Emeliyat  Yazin");
             }
         }
     }

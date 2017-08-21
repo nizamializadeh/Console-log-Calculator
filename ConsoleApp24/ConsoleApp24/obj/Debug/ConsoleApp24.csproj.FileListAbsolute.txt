@@ -1,0 +1,6 @@
+c:\users\nizam_000\documents\visual studio 2017\Projects\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+c:\users\nizam_000\documents\visual studio 2017\Projects\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+c:\users\nizam_000\documents\visual studio 2017\Projects\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+c:\users\nizam_000\documents\visual studio 2017\Projects\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csprojResolveAssemblyReference.cache
+c:\users\nizam_000\documents\visual studio 2017\Projects\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+c:\users\nizam_000\documents\visual studio 2017\Projects\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
